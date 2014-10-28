@@ -1,3 +1,8 @@
+# Gradiente Desendente
+# Regresion Linea Multivariable
+# Jaime Delgado
+# compilado python 3.4 para windows
+
 import sys
 
 class gradiente:
